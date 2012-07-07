@@ -1,0 +1,288 @@
+body{
+background:url('bg.png');
+background-size: 100% 100%;
+}
+
+div.banner{
+width: 1000px; 
+height: 150px; 
+top: -20px;
+margin: 0 0 0 -501px; 
+left: 50%;
+position: fixed;
+background:url('header.png');
+box-shadow: 0px 0px 10px 5px #888;
+}
+
+div.wholehome{
+position: relative;
+height:1300px;
+width:1000px;
+top: 100px;
+margin: auto auto;
+background-color: white;
+box-shadow: 0px 10px 10px 5px #888;
+}
+
+div.whole800{
+position: relative;
+height:800px;
+width:1000px;
+top: 100px;
+border: 1px solid white;
+margin: auto auto;
+background-color: white;
+box-shadow: 0px 10px 10px 5px #888;
+}
+
+div.whole{
+position: relative;
+height:1500px;
+width:1000px;
+top: 100px;
+border: 1px solid white;
+margin: auto auto;
+background-color: white;
+box-shadow: 0px 10px 10px 5px #888;
+}
+
+div.login{
+margin-left: 600px;
+margin-top: 30px;
+height: 50px;
+width: 300px;
+position: fixed;
+}
+
+div.cdiv{
+/*border: 1px solid black;*/
+margin-left: 335;
+width: 333px;
+height: 150px; 
+position: absolute;
+top:0;
+}
+
+div.ldiv{
+/*border: 1px solid black;*/
+width: 333px;
+height: 150px; 
+position: absolute;
+top:0;
+left:0;
+}
+
+div.rdiv{
+/*border: 1px solid black;*/
+margin-left: 668;
+width: 333px;
+height: 150px; 
+position: absolute;
+top:0;
+}
+
+p.font{
+font-family: 'Play', sans-serif;
+}
+
+p.fontcursive{
+font-family: 'Marck Script', cursive;
+font-size: 30px;
+}
+
+div.VPs{
+width: 1000px; 
+height: 120px; 
+top: 620px;
+margin: 0 0 0 -501px; 
+left: 50%;
+position: absolute;
+/*border: 1px solid black;*/
+}
+
+div.VPfinance{
+/*border: 1px solid black;*/
+width: 65;
+height: 95;
+position: absolute;
+margin-left: 67px;
+}
+
+div.VPdocu{
+/*border: 1px solid black;*/
+width: 65;
+height: 95;
+position: absolute;
+margin-left: 263px;
+}
+
+div.VPact{
+/*border: 1px solid black;*/
+width: 65;
+height: 95;
+position: absolute;
+margin-left: 463px;
+}
+
+div.VPmark{
+/*border: 1px solid black;*/
+width: 65;
+height: 95;
+position: absolute;
+margin-left: 663px;
+}
+
+div.VPall{
+/*border: 1px solid black;*/
+width: 65;
+height: 95;
+position: absolute;
+margin-left: 863px;
+}
+
+div.AVPs{
+width: 1000px; 
+height: 450px; 
+top: 825px;
+margin: 0 0 0 -501px; 
+left: 50%;
+position: absolute;
+/*border: 1px solid black;*/
+}
+
+div.AVPfinance1{
+/*border: 1px solid black;*/
+width: 65;
+height: 95;
+position: absolute;
+margin-left: 67px;
+}
+
+div.AVPfinance2{
+/*border: 1px solid black;*/
+width: 65;
+height: 95;
+position: absolute;
+margin-left: 67px;
+margin-top: 144px;
+}
+
+div.AVPdocu1{
+/*border: 1px solid black;*/
+width: 65;
+height: 95;
+position: absolute;
+margin-left: 263px;
+}
+
+div.AVPdocu2{
+/*border: 1px solid black;*/
+width: 65;
+height: 95;
+position: absolute;
+margin-left: 263px;
+margin-top: 144px;
+}
+
+div.AVPact1{
+/*border: 1px solid black;*/
+width: 65;
+height: 95;
+position: absolute;
+margin-left: 463px;
+}
+
+div.AVPact2{
+/*border: 1px solid black;*/
+width: 65;
+height: 95;
+position: absolute;
+margin-left: 463px;
+margin-top: 144px;
+}
+
+div.AVPact3{
+/*border: 1px solid black;*/
+width: 65;
+height: 95;
+position: absolute;
+margin-left: 463px;
+margin-top: 300px;
+}
+
+div.AVPmark1{
+/*border: 1px solid black;*/
+width: 65;
+height: 95;
+position: absolute;
+margin-left: 663px;
+}
+
+div.AVPmark2{
+/*border: 1px solid black;*/
+width: 65;
+height: 95;
+position: absolute;
+margin-left: 663px;
+margin-top: 144px;
+}
+
+div.AVPmark3{
+/*border: 1px solid black;*/
+width: 65;
+height: 95;
+position: absolute;
+margin-left: 663px;
+margin-top: 300px;
+}
+
+div.AVPall1{
+/*border: 1px solid black;*/
+width: 65;
+height: 95;
+position: absolute;
+margin-left: 863px;
+}
+
+div.AVPall2{
+/*border: 1px solid black;*/
+width: 65;
+height: 95;
+position: absolute;
+margin-left: 863px;
+margin-top: 144px;
+}
+
+div.AVPlabel{
+height: 30px;
+width: 400px;
+position: absolute;
+margin-top: 140px;
+margin-left: 416px;
+}
+
+div.misvis{
+width: 600px; 
+height: 400px; 
+top: 150px;
+margin: 0 0 0 -301px; 
+left: 50%;
+position: absolute;
+}
+
+div.comment{
+width: 325px;
+height: 700px;
+overflow: auto;
+position: absolute;
+margin-left: 660px;
+margin-top: -50px;
+}
+div.uploadthingy{
+border: 1px solid black;
+height: 650px;
+width: 600px;
+position: absolute;
+}
+
+
