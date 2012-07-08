@@ -17,7 +17,7 @@
 <br><br>
 <a class="thumbnail">
 <img src="officers/1.png" />
-<span><img src="officers/1.png" alt="President" width="100" height="150" >Name<br>Cellphone<br>Email Add</span></a>
+<span>Shayne Feliciano<br>09175332594<br>felicianoshayne@yahoo.com</span></a>
 <br>PRESIDENT<br>
 <img src="officers/oneline.png" />
 <br>
@@ -27,22 +27,22 @@
 
 	<div class="VPs" >
 		<div class="VPfinance">
-			<img src="officers/3.png" />
+			<img src="officers/vpfinance.png" />
 		</div>
 		
 		<div class="VPdocu">
-			<img src="officers/4.png" />
+			<img src="officers/vpdocu.png" />
 		</div>
 		
 		<div class="VPact">
-			<img src="officers/5.png" />
+			<img src="officers/vpact.png" />
 		</div>
 		
 		<div class="VPmark">
-			<img src="officers/6.png" />
+			<img src="officers/vpmark.png" />
 		</div>
 		<div class="VPall">
-			<img src="officers/7.png" />
+			<img src="officers/vpalli.png" />
 		</div>
 		<br><br><br><br><br>
 		<font style="font-family: 'Play', sans-serif;">
@@ -64,51 +64,51 @@
 <img src="officers/line2.png" />
 	<div class="AVPs" >
 		<div class="AVPfinance1">
-			<img src="officers/8.png" />
+			<img src="officers/avpfin.png" />
 		</div>
 		
 		<div class="AVPfinance2">
-			<img src="officers/9.png" />
+			<img src="officers/avpfin1.png" />
 		</div>
 		
 		<div class="AVPdocu1">
-			<img src="officers/10.png" />
+			<img src="officers/avppre.png" />
 		</div>
 		
 		<div class="AVPdocu2">
-			<img src="officers/11.png" />
+			<img src="officers/avppost.png" />
 		</div>
 		
 		<div class="AVPact1">
-			<img src="officers/12.png" />
+			<img src="officers/avpab.png" />
 		</div>
 		
 		<div class="AVPact2">
-			<img src="officers/13.png" />
+			<img src="officers/avpbs.png" />
 		</div>
 		
 		<div class="AVPact3">
-			<img src="officers/14.png" />
+			<img src="officers/avpnon.png" />
 		</div>
 		
 		<div class="AVPmark1">
-			<img src="officers/15.png" />
+			<img src="officers/avpmem.png" />
 		</div>
 		
 		<div class="AVPmark2">
-			<img src="officers/16.png" />
+			<img src="officers/avppubli.png" />
 		</div>
 		
 		<div class="AVPmark3">
-			<img src="officers/17.png" />
+			<img src="officers/avppubli.png" />
 		</div>
 		
 		<div class="AVPall1">
-			<img src="officers/18.png" />
+			<img src="officers/avpint.png" />
 		</div>
 		
 		<div class="AVPall2">
-			<img src="officers/19.png" />
+			<img src="officers/avpexe.png" />
 		</div>
 		<br><br><br><br><br>
 		<font style="font-family: 'Play', sans-serif;">
